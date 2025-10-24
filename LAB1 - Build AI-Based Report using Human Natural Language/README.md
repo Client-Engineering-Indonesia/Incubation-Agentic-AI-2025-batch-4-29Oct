@@ -1,4 +1,4 @@
-# Job Distribution
+# Lab 1: Build AI-Based Report using Human Natural language
 
 This lab provides 2 section such as:
 
