@@ -60,18 +60,18 @@ Click **Create**.
 ### 4. Add Knowledge
 Scroll down to the **Knowledge** section and click **Choose knowledge**.
 
-![step5]()
+![step5](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/hr_step5.png)
 
 ---
 
 ### 5. Upload Documents
 Select **Upload files** and click **Next**.
 
-![step6]()
+![step6](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/hr_step_6.png)
 
 Drag and drop the file **Employee Benefits.pdf**, then click **Next**.
 
-![step7]()
+![step7](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/hr_step7.png)
 
 ---
 
@@ -85,7 +85,7 @@ This knowledge base addresses the company's employee benefits, including parenta
 
 Click **Save**.
 
-![step8]()
+![step8](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/hr_step8.png)
 
 > ⏳ The knowledge base may take a few moments to finish creating. Once completed, you will be returned to the **Agent Builder UI**.
 
@@ -101,7 +101,7 @@ In the **Instructions** field, paste the following:
 Use your knowledge base to answer general questions about employee benefits.
 ```
 
-![step9]()
+![step9](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/hr_step9.png)
 
 ---
 
@@ -111,7 +111,7 @@ Test your agent in the **Preview Chat** (on the right-hand side) by asking the f
 
 - **What is the pet policy?**
 
-![step10]()
+![step10](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/hr_step10.png)
 
 You can also try:
 
@@ -142,7 +142,7 @@ In the next lab, you will see how to **connect this HR Agent** to:
 
 The knowledge base will take some time to create. After the knowledge base is done, you will be brought back to the Agent Builder UI.
 
-![step11]()
+![step11](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/hr_step11.png)
 
 Scroll down to the Behavior section. Insert the instructions below into the Instructions field:
 
