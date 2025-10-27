@@ -148,13 +148,13 @@ Scroll down to the Behavior section. Insert the instructions below into the Inst
 
  Use your knowledge base to answer general questions about employee benefits. 
 
-![step12]()
+![step12](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/hr_step12.png)
 
 Test your agent in the preview chat on the right side by asking the following questions and validating the responses. They should look similar to what is shown in the screenshot(s) below:
 
  What is the pet policy? 
 
-![step13]()
+![step13](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/hr_step13.png)
 
 You can try the following sample questions as well:
 
