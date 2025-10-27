@@ -8,41 +8,45 @@ We will make this agent more powerful with more tools and access to APIs, and en
 Step by step instructions to build the HR Agent:
 When you launch watsonx Orchestrate, you’ll be directed to this page. Click on the hamburger menu in the top left corner:
 
-![image]()
+![image](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/step1.png)
 
 Click on the down arrow next to Build. Then click on Agent Builder:
 
-![image]()
+![step2](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/step2.png)
 
 Click on Create agent +:
 
-![image]()
+![step3](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/step3.png)
 
 Select “Create from scratch”, give your agent a unique name (make sure to identify yourself by your initials or name, since this is a shared instance), e.g. “[Your Initial]_HR Agent”, and fill in the description as shown below:
 
- You are an agent who handles employee HR queries.  You provide short and crisp responses, keeping the output to 200 words or less. You can answer general questions about company benefits.
+```text
+You are an agent who handles employee HR queries.  You provide short and crisp responses, keeping the output to 200 words or less. You can answer general questions about company benefits.
+```
 
 Click on Create:
 
-![image]()
+![step4](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/hr_step4.png)
 
 We are going to build a knowledge base for the agent. Scroll down the screen to the Knowledge section and click on “Choose knowledge”.
 
-![image]()
+![step5]()
 
 Choose “Upload files” and click “Next”.
 
-![image]()
+![step6](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/hr_step5.png)
 
 Drag and drop the Employee Benefits.pdf and click on Next:
 
-![image]()
+![step7](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/hr_step7.png)
 
 Copy the following description into the Description section and click Save:
 
- This knowledge base addresses the company's employee benefits, including parental leaves, pet policy, flexible work arrangements, and student loan repayment.
+This knowledge base addresses the company's employee benefits, including parental leaves, pet policy, flexible work arrangements, and student loan repayment.
 
-![image]()# 🧑‍💼 AskHR Lab 2: Building a RAG Agent
+![step8](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/hr_step8.png)
+
+# 🧑‍💼 AskHR Lab 2: Building a RAG Agent
 
 > **Before you start:** Please refer to **Lab 2 Explanations** to understand the concept of Agentic RAG (Retrieval-Augmented Generation).
 
@@ -63,21 +67,21 @@ We will make this agent more powerful with more tools and access to APIs, and en
 When you launch **watsonx Orchestrate**, you’ll be directed to the main page.  
 Click on the **hamburger menu (☰)** in the top left corner.
 
-![image]()
+![step9]()
 
 ---
 
 ### 2. Open Agent Builder
 Click on the **down arrow** next to **Build**, then click on **Agent Builder**.
 
-![image]()
+![step10]()
 
 ---
 
 ### 3. Create a New Agent
 Click **Create agent +**
 
-![image]()
+![step11]()
 
 Select **Create from scratch**, then fill in the details as follows:
 
@@ -93,7 +97,7 @@ You can answer general questions about company benefits.
 
 Click **Create**.
 
-![image]()
+![step12]()
 
 ---
 
