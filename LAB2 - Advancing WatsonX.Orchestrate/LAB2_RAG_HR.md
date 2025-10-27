@@ -1,51 +1,3 @@
-## 🧑‍💼 AskHR Lab 2: Building a RAG agent
-Please refer to Lab 2 Explanations before starting.
-
-In this lab, we will enable our HR agent in watsonx Orchestrate to answer questions based on a knowledge base. This agent retrieves relevant information from documents to answer user queries.
-
-We will make this agent more powerful with more tools and access to APIs, and enable it to collaborate with other agents in lab3.
-
-Step by step instructions to build the HR Agent:
-When you launch watsonx Orchestrate, you’ll be directed to this page. Click on the hamburger menu in the top left corner:
-
-![image](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/step1.png)
-
-Click on the down arrow next to Build. Then click on Agent Builder:
-
-![step2](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/step2.png)
-
-Click on Create agent +:
-
-![step3](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/step3.png)
-
-Select “Create from scratch”, give your agent a unique name (make sure to identify yourself by your initials or name, since this is a shared instance), e.g. “[Your Initial]_HR Agent”, and fill in the description as shown below:
-
-```text
-You are an agent who handles employee HR queries.  You provide short and crisp responses, keeping the output to 200 words or less. You can answer general questions about company benefits.
-```
-
-Click on Create:
-
-![step4](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/hr_step4.png)
-
-We are going to build a knowledge base for the agent. Scroll down the screen to the Knowledge section and click on “Choose knowledge”.
-
-![step5]()
-
-Choose “Upload files” and click “Next”.
-
-![step6](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/hr_step5.png)
-
-Drag and drop the Employee Benefits.pdf and click on Next:
-
-![step7](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/hr_step7.png)
-
-Copy the following description into the Description section and click Save:
-
-This knowledge base addresses the company's employee benefits, including parental leaves, pet policy, flexible work arrangements, and student loan repayment.
-
-![step8](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/hr_step8.png)
-
 # 🧑‍💼 AskHR Lab 2: Building a RAG Agent
 
 > **Before you start:** Please refer to **Lab 2 Explanations** to understand the concept of Agentic RAG (Retrieval-Augmented Generation).
@@ -67,21 +19,23 @@ We will make this agent more powerful with more tools and access to APIs, and en
 When you launch **watsonx Orchestrate**, you’ll be directed to the main page.  
 Click on the **hamburger menu (☰)** in the top left corner.
 
-![step9]()
+![Step1](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/step1.png)
+
 
 ---
 
 ### 2. Open Agent Builder
 Click on the **down arrow** next to **Build**, then click on **Agent Builder**.
 
-![step10]()
+![step2](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/step2.png)
 
 ---
 
 ### 3. Create a New Agent
 Click **Create agent +**
 
-![step11]()
+![step3](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/step3.png)
+
 
 Select **Create from scratch**, then fill in the details as follows:
 
@@ -97,7 +51,7 @@ You can answer general questions about company benefits.
 
 Click **Create**.
 
-![step12]()
+![step4](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/hr_step4.png)
 
 ---
 
@@ -106,18 +60,18 @@ Click **Create**.
 ### 4. Add Knowledge
 Scroll down to the **Knowledge** section and click **Choose knowledge**.
 
-![image]()
+![step5]()
 
 ---
 
 ### 5. Upload Documents
 Select **Upload files** and click **Next**.
 
-![image]()
+![step6]()
 
 Drag and drop the file **Employee Benefits.pdf**, then click **Next**.
 
-![image]()
+![step7]()
 
 ---
 
@@ -131,7 +85,7 @@ This knowledge base addresses the company's employee benefits, including parenta
 
 Click **Save**.
 
-![image]()
+![step8]()
 
 > ⏳ The knowledge base may take a few moments to finish creating. Once completed, you will be returned to the **Agent Builder UI**.
 
@@ -147,7 +101,7 @@ In the **Instructions** field, paste the following:
 Use your knowledge base to answer general questions about employee benefits.
 ```
 
-![image]()
+![step9]()
 
 ---
 
@@ -157,7 +111,7 @@ Test your agent in the **Preview Chat** (on the right-hand side) by asking the f
 
 - **What is the pet policy?**
 
-![image]()
+![step10]()
 
 You can also try:
 
@@ -188,19 +142,19 @@ In the next lab, you will see how to **connect this HR Agent** to:
 
 The knowledge base will take some time to create. After the knowledge base is done, you will be brought back to the Agent Builder UI.
 
-![image]()
+![step11]()
 
 Scroll down to the Behavior section. Insert the instructions below into the Instructions field:
 
  Use your knowledge base to answer general questions about employee benefits. 
 
-![image]()
+![step12]()
 
 Test your agent in the preview chat on the right side by asking the following questions and validating the responses. They should look similar to what is shown in the screenshot(s) below:
 
  What is the pet policy? 
 
-![image]()
+![step13]()
 
 You can try the following sample questions as well:
 
