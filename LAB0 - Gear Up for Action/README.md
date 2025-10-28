@@ -1,53 +1,59 @@
-# Job Distribution
+# Environment Setup 
+This guide helps you access and set up the tools used during the workshop: Langflow, Elasticsearch (Watsonx Discovery), Watsonx Orchestrate, and Watsonx.ai.
 
-This document outlines the task distribution and person-in-charge (PIC) assignments for the upcoming Agentic AI engagement and related IBM watsonx initiatives.
+## 📌 watsonx ai
 
----
+### 1. List of users
+For accessing watsonx ai studio, you can use the following link:
 
-## 1. Opening and Introduction to Agentic AI
-**PIC:**  
-- Winton
+1. Login to IBM Cloud here URL: https://dataplatform.cloud.ibm.com/ 
+2. Enter the username and password as per your respective company.
+3. Select region **Dallas (us-south)**
 
----
+Here are the available users and the password for watsonx ai studio:
 
-## 2. POC: Real-World Use Cases  
-Deliver a Proof of Concept (POC) that includes presenting client pain points and showcasing relevant AI solutions.
+- <your ibm email>+<company name>_<number>@mail.test.ibm.com
 
-**PICs & Focus Areas:**
-- **Fadly** – Bank Mega (IT Operations)  
-- **Adhit** – Transaction Monitoring (Banking)  
-- **Dita** – OCR (Insurance / BFSI)  
-- **Dita** – Customer Service (Speech-to-Text to Summary & Action from Phone Calls) – *Video format*  
-- **Bisma** – IBM OpenPages – Legal & Compliance (Governance) – *Video format*  
-- **Satria / Alvian** – Watsonx.governance & AI Guardrails (Governance)
+### 2. Access Project ID & API Key
+- Refer to the **document** you received via **email**
+- Locate the **"Project_ID"** & **"Apikey"** column to find your assigned watsonx.ai Project ID & API Key
+
 
 ---
 
-## 3. Watsonx.BI  
-Provision project visibility and prepare trial materials for client demonstrations.  
 
-**PIC:**  
-- **Bisma** – Watsonx.BI
+## 📌 watsonx orchestrate
 
----
+### 1. Create IBM ID
+Create an IBM Id if you do not have one using [IBM ID Sign Up Form](https://www.ibm.com/account/reg/us-en/signup?formid=urx-19776).  
+Use **the same email** that you have registered for the workshop with.
 
-## 4. Watsonx.Orchestrate  
-Plan projects and create trial materials for clients, including RAG, Text-to-SQL, and other AI-powered automation use cases.  
-*(The specific material can be chosen by each PIC.)*
+📖 See documentation: [Creating an IBM ID](https://www.ibm.com/docs/en/cds-saas-flex?topic=support-how-create-ibmid).
 
-**PICs:**  
-- **Raihan** – RAG, Report  
-  - *(Include Clause Anthropic)*
+### 2. Get Access to Watsonx Orchestrate
+This ibm id will be added to the orchestrate instance for access by your workshop host.
 
 ---
 
-## 5. Solutions Architecture  
-Develop a solution architecture based on the pain points provided by clients.
+## 🚀 During the workshop
 
-**PICs:**
-- **Raihan & Iqbal** – Collect and synthesize client pain points  
-- **All Data & AI CE Members** – Contribute to solution design and distribution
+### 1. Login to Watsonx Orchestrate
+
+Login with your IBM ID credentials
+🔗 [https://dl.watson-orchestrate.ibm.com/](https://dl.watson-orchestrate.ibm.com/)
+
+After login, see the home page:
+
+![image](https://github.com/user-attachments/assets/a45bc10f-4042-4c43-a99e-a4f77febdae0)
+
+![image](https://github.com/user-attachments/assets/d5cb16da-304e-495d-899d-38082f9c8f5b)
+
+### 2. Download File Lab
+
+Download workshop content from here:  
+🔗 [https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-3.git](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-3.git)
+
+![image](https://github.com/user-attachments/assets/49ff86dc-f366-4554-bc90-1be593c582d2)
 
 ---
 
-**Last Updated:** October 2025
