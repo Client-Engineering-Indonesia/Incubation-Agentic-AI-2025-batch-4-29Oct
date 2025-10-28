@@ -1,53 +1,31 @@
-# Job Distribution
+# Incubation Agentic AI 2025 Batch 3
 
-This document outlines the task distribution and person-in-charge (PIC) assignments for the upcoming Agentic AI engagement and related IBM watsonx initiatives.
+## 📖 Overview
 
----
+<div align="center">
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/efdce002-a16c-4183-8f38-e51b1e62d211" />
+</div>
 
-## 1. Opening and Introduction to Agentic AI
-**PIC:**  
-- Winton
+IBM watsonx Orchestrate empowers your business by automating tasks, simplifying complex processes, and ultimately saving you and your team time and effort. Get access to a broad range of prebuilt apps and skills to help you and your team complete daily tasks like emailing coworkers, collating spreadsheets, creating cases at Customer Relationship Management (CRM) platforms, and so much more.
 
----
+## 🎯 Purpose
 
-## 2. POC: Real-World Use Cases  
-Deliver a Proof of Concept (POC) that includes presenting client pain points and showcasing relevant AI solutions.
+This workshop aims to introduce Agentic AI into organizational workflows using [watsonx Orchestrate](https://www.ibm.com/products/watsonx-orchestrate).
 
-**PICs & Focus Areas:**
-- **Fadly** – Bank Mega (IT Operations)  
-- **Adhit** – Transaction Monitoring (Banking)  
-- **Dita** – OCR (Insurance / BFSI)  
-- **Dita** – Customer Service (Speech-to-Text to Summary & Action from Phone Calls) – *Video format*  
-- **Bisma** – IBM OpenPages – Legal & Compliance (Governance) – *Video format*  
-- **Satria / Alvian** – Watsonx.governance & AI Guardrails (Governance)
+## 👉 Agenda
 
----
+<img width="1111" height="542" alt="image" src="https://github.com/user-attachments/assets/535a800d-d493-4226-a495-14e5e2370bf1" />
 
-## 3. Watsonx.BI  
-Provision project visibility and prepare trial materials for client demonstrations.  
+<i>
+Please note that the agenda listed above is for reference only and may not reflect the actual workshop time or duration.
+Workshop times and duration are subject to change.
+</I>
 
-**PIC:**  
-- **Bisma** – Watsonx.BI
+## 🚀 Benefits
 
----
+After attending this workshop, you will be able to:
+- Learn how to evaluate potential use cases in your own organization.
+- Hands-on experience building and automating a Retrieval-Augmented Generation (RAG) app.
+- Learn to develop reasoning-capable agents that can use tools and plan tasks.
+- Stay up to date with the latest AI advancements and innovations from IBM
 
-## 4. Watsonx.Orchestrate  
-Plan projects and create trial materials for clients, including RAG, Text-to-SQL, and other AI-powered automation use cases.  
-*(The specific material can be chosen by each PIC.)*
-
-**PICs:**  
-- **Raihan** – RAG, Report  
-  - *(Include Clause Anthropic)*
-
----
-
-## 5. Solutions Architecture  
-Develop a solution architecture based on the pain points provided by clients.
-
-**PICs:**
-- **Raihan & Iqbal** – Collect and synthesize client pain points  
-- **All Data & AI CE Members** – Contribute to solution design and distribution
-
----
-
-**Last Updated:** October 2025
