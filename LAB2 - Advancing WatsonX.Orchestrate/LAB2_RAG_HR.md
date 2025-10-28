@@ -69,7 +69,7 @@ Select **Upload files** and click **Next**.
 
 ![step6](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/hr_step_6.png)
 
-Drag and drop the file **Employee Benefits.pdf**, then click **Next**.
+Drag and drop the file [Employee-Benefits.pdf](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/Employee-Benefits.pdf), then click **Next**.
 
 ![step7](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/hr_step7.png)
 
