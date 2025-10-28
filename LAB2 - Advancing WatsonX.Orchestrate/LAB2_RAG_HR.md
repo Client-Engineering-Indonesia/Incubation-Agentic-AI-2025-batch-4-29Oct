@@ -92,6 +92,8 @@ Click **Save**.
 
 > ⏳ The knowledge base may take a few moments to finish creating. Once completed, you will be returned to the **Agent Builder UI**.
 
+![step9](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/hr_step9.png)
+
 ---
 
 ## ⚙️ Configure Behavior
@@ -104,7 +106,7 @@ In the **Instructions** field, paste the following:
 Use your knowledge base to answer general questions about employee benefits.
 ```
 
-![step9](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/hr_step9.png)
+![step10](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/hr_step10.png)
 
 ---
 
@@ -114,7 +116,8 @@ Test your agent in the **Preview Chat** (on the right-hand side) by asking the f
 
 - **What is the pet policy?**
 
-![step10](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/hr_step10.png)
+![step11](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/hr_step11.png)
+
 
 You can also try:
 
@@ -145,13 +148,13 @@ In the next lab, you will see how to **connect this HR Agent** to:
 
 The knowledge base will take some time to create. After the knowledge base is done, you will be brought back to the Agent Builder UI.
 
-![step11](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/hr_step11.png)
+![step12](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/hr_step12.png)
 
 Scroll down to the Behavior section. Insert the instructions below into the Instructions field:
 
  Use your knowledge base to answer general questions about employee benefits. 
 
-![step12](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/hr_step12.png)
+![step13](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/hr_step13.png)
 
 Test your agent in the preview chat on the right side by asking the following questions and validating the responses. They should look similar to what is shown in the screenshot(s) below:
 
