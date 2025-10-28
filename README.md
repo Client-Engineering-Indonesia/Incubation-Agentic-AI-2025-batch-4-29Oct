@@ -14,7 +14,7 @@ This workshop aims to introduce Agentic AI into organizational workflows using [
 
 ## 👉 Agenda
 
-<img width="1111" height="542" alt="image" src="https://github.com/user-attachments/assets/535a800d-d493-4226-a495-14e5e2370bf1" />
+<img width="1111" height="542" alt="image" src="https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/Assets/Agenda_29_WS.png" />
 
 <i>
 Please note that the agenda listed above is for reference only and may not reflect the actual workshop time or duration.
