@@ -15,6 +15,9 @@ We will make this agent more powerful with more tools and access to APIs, and en
 
 ## 🪜 Step-by-Step Instructions
 
+### 0. Pre-requisite Documents
+Please Download [Employee-Benefits.pdf](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/Employee-Benefits.pdf) documents. this documents will be used on AI knowledge based (KB).
+
 ### 1. Launch watsonx Orchestrate
 When you launch **watsonx Orchestrate**, you’ll be directed to the main page.  
 Click on the **hamburger menu (☰)** in the top left corner.
