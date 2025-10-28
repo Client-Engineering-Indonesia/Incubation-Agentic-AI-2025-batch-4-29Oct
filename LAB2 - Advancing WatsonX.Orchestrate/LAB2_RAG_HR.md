@@ -157,12 +157,17 @@ Test your agent in the preview chat on the right side by asking the following qu
 ![step13](https://github.com/Client-Engineering-Indonesia/Incubation-Agentic-AI-2025-batch-4-29Oct/blob/main/LAB2%20-%20Advancing%20WatsonX.Orchestrate/Images/hr_step13.png)
 
 You can try the following sample questions as well:
+```text
+how many days of leave am i entitled to?
+```
 
- how many days of leave am i entitled to?
+```text
+can i work from home 3 times a week?
+```
 
- can i work from home 3 times a week?
-
- does the company provide any assistance on loan repayments?
+```text
+does the company provide any assistance on loan repayments?
+```
 
 Notice that you get a generic answers based on policy for all employees. You will see in the next lab how you can connect it to Employee Address Agent and Leave Management Agent from Lab 1 to do tasks for you.
 
